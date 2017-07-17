@@ -1,0 +1,1 @@
+Simple Java program that simulates a hungry ghost wanting the user to give him treats
